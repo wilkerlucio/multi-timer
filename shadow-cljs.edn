@@ -1,5 +1,6 @@
-{:deps {}
+{:deps
+ {}
 
  :builds
-       {:app {:target     :npm-module
-              :output-dir "node_modules/shadow-cljs"}}}
+ {:app {:target     :npm-module
+        :output-dir "node_modules/shadow-cljs"}}}

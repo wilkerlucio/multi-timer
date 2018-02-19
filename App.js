@@ -1,10 +1,10 @@
 import React from 'react';
+import Native from 'react-native';
 import { StyleSheet, Text, View } from 'react-native';
-import { foo } from 'shadow-cljs/demo.app';
+import { rootelement } from 'shadow-cljs/demo.app';
 
 export default class App extends React.Component {
   render() {
-    return foo();
+    return rootelement();
   }
 }
-

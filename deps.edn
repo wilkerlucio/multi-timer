@@ -8,7 +8,6 @@
   com.wsscode/pathom         {:mvn/version "2.0.0-beta2-SNAPSHOT"}
   spec-coerce                {:mvn/version "1.0.0-alpha5"}
   fulcrologic/fulcro         {:mvn/version "2.3.0-SNAPSHOT"}
-  fulcrologic/fulcro-css     {:mvn/version "2.0.0"}
   fulcrologic/fulcro-inspect {:mvn/version "2.0.0-alpha5"}
   binaryage/devtools         {:mvn/version "0.9.9"}
   org.clojure/test.check     {:mvn/version "0.9.0"}
